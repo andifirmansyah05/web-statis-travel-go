@@ -14,5 +14,5 @@
 </p>
 <br>
 <p>
-  Sekian terimakasih, telah menguji github saya :)
+  Sekian terimakasih, telah mengunjungi github saya :)
 </p>
