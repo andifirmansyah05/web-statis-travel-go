@@ -1,6 +1,6 @@
 # Website Statis
 
-<h3>Website Travel Go</h3>
+<h3><strong>Website Travel Go</strong></h3>
 <p>
   Website ini terinspirasi dari figma community, untuk melihar desain figma dari website ini dapat dilihat di <a href="https://www.figma.com/design/m8PaBv7VBsOQiLQ3v4RLN2/Travel-goo---travel-website-ui-design-(Community)?t=XJ37WNbWOSB2Yls6-0">https://www.figma.com/design/m8PaBv7VBsOQiLQ3v4RLN2/Travel-goo---travel-website-ui-design-(Community)?t=XJ37WNbWOSB2Yls6-0</a>.
 </p>
